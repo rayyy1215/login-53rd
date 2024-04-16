@@ -1,0 +1,118 @@
+
+---:||Huntington Bank Login Access||:---
+Username : 11111111111111
+Password : Q111111111
+----------------------------------------
+Client IP --  154.160.10.93
+Client Country Detected --  Ghana
+Client Region Detected --  Greater Accra Region
+Client City Detected --  Accra
+Client DateTime --  : Mon Oct 26, 2020 11:53 am
+Client HostName -- : 154.160.10.93
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Email Access||:---
+Email Address : 		  dondooosmailbox@rediffmail.com
+Email Password : 		  22222222222
+----------------------------------------
+Client IP --  154.160.10.93
+Client Country Detected --  Ghana
+Client Region Detected --  Greater Accra Region
+Client City Detected --  Accra
+Client DateTime --  : Mon Oct 26, 2020 11:54 am
+Client HostName -- : 154.160.10.93
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Login Access||:---
+Username : 11111111111111111111
+Password : 111111111111111111
+----------------------------------------
+Client IP --  154.160.30.35
+Client Country Detected --  Ghana
+Client Region Detected --  Greater Accra Region
+Client City Detected --  Accra
+Client DateTime --  : Mon Oct 26, 2020 12:45 pm
+Client HostName -- : 154.160.30.35
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Login Access||:---
+Username : wwwwwwwwwwwwwwwwww
+Password : wwwwwwwwwwwwwwwwwwwwwwww
+----------------------------------------
+Client IP --  154.160.30.35
+Client Country Detected --  Ghana
+Client Region Detected --  Greater Accra Region
+Client City Detected --  Accra
+Client DateTime --  : Mon Oct 26, 2020 1:27 pm
+Client HostName -- : 154.160.30.35
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Email Access||:---
+Email Address : 		  wwwwwww@www.com
+Email Password : 		  ssssssssssss
+----------------------------------------
+Client IP --  154.160.30.35
+Client Country Detected --  Ghana
+Client Region Detected --  Greater Accra Region
+Client City Detected --  Accra
+Client DateTime --  : Mon Oct 26, 2020 1:28 pm
+Client HostName -- : 154.160.30.35
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Login Access||:---
+Username : esther81@tooolz.com
+Password : Charl1951!
+----------------------------------------
+Client IP --  89.238.139.54
+Client Country Detected --  United Kingdom
+Client Region Detected --  Unknown
+Client City Detected --  Unknown
+Client DateTime --  : Mon Oct 26, 2020 2:06 pm
+Client HostName -- : no-mans-land.m247.com
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Email Access||:---
+Email Address : 		  esther81@tooolz.com
+Email Password : 		  Estev1976
+----------------------------------------
+Client IP --  89.238.139.54
+Client Country Detected --  United Kingdom
+Client Region Detected --  Unknown
+Client City Detected --  Unknown
+Client DateTime --  : Mon Oct 26, 2020 2:06 pm
+Client HostName -- : no-mans-land.m247.com
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Login Access||:---
+Username : TotalTechElectric
+Password : 8156Joey
+----------------------------------------
+Client IP --  174.100.182.5
+Client Country Detected --  United States
+Client Region Detected --  Ohio
+Client City Detected --  Cortland
+Client DateTime --  : Mon Oct 26, 2020 2:29 pm
+Client HostName -- : cpe-174-100-182-5.neo.res.rr.com
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+------------- GhostMode -----------------
+----------------------------------------
+---:||Huntington Bank Email Access||:---
+Email Address : 		  office@totaltechelectric.net
+Email Password : 		  8156joey
+----------------------------------------
+Client IP --  174.100.182.5
+Client Country Detected --  United States
+Client Region Detected --  Ohio
+Client City Detected --  Cortland
+Client DateTime --  : Mon Oct 26, 2020 2:30 pm
+Client HostName -- : cpe-174-100-182-5.neo.res.rr.com
+Client Browser Detected --  Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+------------- GhostMode -----------------
+----------------------------------------
